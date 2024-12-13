@@ -1,3 +1,7 @@
 h1 {
     clear: red;
 }
+
+li {
+    text-decoration: underline;
+}
